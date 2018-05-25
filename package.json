@@ -9,6 +9,10 @@
   "bin": {
     "qeploy": "./index.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/J-DaYu/qeploy.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
